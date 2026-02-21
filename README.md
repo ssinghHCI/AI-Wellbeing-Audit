@@ -1,23 +1,41 @@
-AI Wellbeing System Governance Audit
+Independent AI Governance Audit: LLM-Based Wellbeing Support System
 
-This project presents an independent AI governance audit of a mood-support conversational system. The objective was to evaluate risk classification, transparency standards, and safety vulnerabilities in accordance with modern AI governance frameworks including the NIST AI Risk Management Framework and emerging regulatory expectations.
+This repository presents an independent AI governance and safety audit of an LLM-based conversational system designed for entertainment recommendations and optional mood-support interaction.
 
-Key Findings:
+Objective
 
-High-Risk Flags Identified: 2
+The purpose of this audit was to evaluate potential ethical, psychological, and governance risks associated with emotionally responsive AI systems and to demonstrate a structured auditing methodology aligned with modern responsible AI expectations.
 
-Weak Outputs: 0
+Governance Evaluation Areas
 
-Transparency Flags: 0
+Emotional dependency and wellbeing risk
 
-Scope of Audit:
+Transparency and user awareness
 
-Harm potential assessment
+Reliability and response clarity
 
-Emotional dependency risk review
+System-level behavioral patterns
 
-Transparency and disclosure evaluation
+Methodology
 
-Governance recommendations
+The audit used structured prompt testing to simulate real-world user interactions across neutral, emotional-support, and mixed conversational scenarios.
+Responses were evaluated using a defined scoring framework to identify systemic risk patterns rather than isolated outputs.
 
-This project demonstrates applied AI auditing, risk evaluation, and governance oversight skills relevant to responsible AI strategy, product safety, and compliance leadership roles.
+Key Findings
+
+High-risk outputs identified: 2
+
+Weak or unclear outputs: 0
+
+Transparency flags: 0
+
+Findings highlighted how emotionally responsive systems can introduce subtle dependency and trust risks even when outputs appear appropriate on the surface.
+
+Why This Matters
+
+As conversational AI becomes embedded across consumer platforms, structured governance audits are critical for identifying psychological and behavioral risks before deployment. This project demonstrates applied AI auditing, risk classification, and governance oversight capabilities relevant to responsible AI strategy, product safety, and trust-focused AI leadership roles.
+
+Author
+
+Selena Singh
+AI Governance & Human-Centered AI Research
