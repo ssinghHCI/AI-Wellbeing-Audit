@@ -1,4 +1,4 @@
-# Evaluating Behavioral Risk in AI  
+# Evaluating Behavioral Risk in AI: 
 ## A Governance Framework for LLM Systems  
 
 This repository presents a behavioral AI governance framework applied through an audit of an LLM-based conversational system designed for entertainment recommendations with optional mood-support interaction.
