@@ -4,7 +4,7 @@
 This repository presents a behavioral AI governance framework applied through an audit of an LLM-based conversational system designed for entertainment recommendations with optional mood-support interaction.
 
 
-<br>Objective </br> 
+<b>Objective </b> 
 
 The purpose of this project is to:  
 
@@ -12,7 +12,7 @@ The purpose of this project is to:
 - Demonstrate a structured, human-centered framework for assessing how AI influences user behavior, trust, and decision-making over time  
 
 
-<br>Framework  </br>
+<b>Framework  </b>
 
 This project introduces a behavioral AI governance framework focused on:  
 
@@ -23,7 +23,7 @@ This project introduces a behavioral AI governance framework focused on:
 - **Governance Evaluation** – alignment with human-centered AI principles and design improvements  
 
 
-<br> Approach  </br>
+<b> Approach  </b>
 
 The audit used structured prompt testing to simulate:  
 
@@ -34,7 +34,7 @@ The audit used structured prompt testing to simulate:
 Responses were evaluated using a scoring framework to identify systemic behavioral risk patterns, rather than isolated outputs.
 
 
-<br> Key Findings  </br>
+<b> Key Findings  </b>
 
 - **High-risk outputs identified:** 2  
 - **Weak or unclear outputs:** 0  
@@ -43,7 +43,7 @@ Responses were evaluated using a scoring framework to identify systemic behavior
 Findings indicate that emotionally responsive AI systems can introduce subtle dependency and trust-related risks, even when responses appear appropriate.
 
 
-<br> Why This Matters  </br>
+<b> Why This Matters  </b>
 
 As conversational AI becomes more embedded in everyday use, traditional evaluation methods are no longer sufficient.  
 
@@ -57,7 +57,7 @@ AI systems can influence:
 This project demonstrates how behavioral governance frameworks can identify these risks early and support more responsible AI system design.
 
 
-<br> Technical Implementation  </br>
+<b> Technical Implementation  </b>
 
 The system includes:  
 
@@ -68,6 +68,6 @@ The system includes:
 
 
 
-<br> Author  </br>
+<b> Author  </b>
 
 **Selena Singh**  
