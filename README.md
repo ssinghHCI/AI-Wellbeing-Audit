@@ -3,18 +3,16 @@
 
 This repository presents a behavioral AI governance framework applied through an audit of an LLM-based conversational system designed for entertainment recommendations with optional mood-support interaction.
 
----
 
-## Objective  
+<br>Objective </br> 
 
 The purpose of this project is to:  
 
 - Evaluate ethical, psychological, and governance risks in emotionally responsive AI systems  
 - Demonstrate a structured, human-centered framework for assessing how AI influences user behavior, trust, and decision-making over time  
 
----
 
-## Framework  
+<br>Framework  </br>
 
 This project introduces a behavioral AI governance framework focused on:  
 
@@ -24,9 +22,8 @@ This project introduces a behavioral AI governance framework focused on:
 - **Risk Identification** – detection of dependency, over-trust, and reduced critical thinking  
 - **Governance Evaluation** – alignment with human-centered AI principles and design improvements  
 
----
 
-## Approach  
+<br> Approach  </br>
 
 The audit used structured prompt testing to simulate:  
 
@@ -36,9 +33,8 @@ The audit used structured prompt testing to simulate:
 
 Responses were evaluated using a scoring framework to identify systemic behavioral risk patterns, rather than isolated outputs.
 
----
 
-## Key Findings  
+<br> Key Findings  </br>
 
 - **High-risk outputs identified:** 2  
 - **Weak or unclear outputs:** 0  
@@ -46,9 +42,8 @@ Responses were evaluated using a scoring framework to identify systemic behavior
 
 Findings indicate that emotionally responsive AI systems can introduce subtle dependency and trust-related risks, even when responses appear appropriate.
 
----
 
-## Why This Matters  
+<br> Why This Matters  </br>
 
 As conversational AI becomes more embedded in everyday use, traditional evaluation methods are no longer sufficient.  
 
@@ -61,9 +56,8 @@ AI systems can influence:
 
 This project demonstrates how behavioral governance frameworks can identify these risks early and support more responsible AI system design.
 
----
 
-## Technical Implementation  
+<br> Technical Implementation  </br>
 
 The system includes:  
 
@@ -73,8 +67,7 @@ The system includes:
 - Governance scoring metrics for risk classification and evaluation  
 
 
----
 
-## Author  
+<br> Author  </br>
 
 **Selena Singh**  
